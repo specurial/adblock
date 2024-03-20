@@ -1,10 +1,12 @@
-[Adblock Plus 2.0]
-! Homepage: http://chrome.murvielinfo.com
-! Title: mY adblock plus list
-! Expires: 5 days (update frequency)
-! Version: 20170211
-###my-div
-##.my-class
+[Adblock Plus 3.1]
+! Checksum: NUlOK6EsnYivbzCPte4P7A
+! Version: 202403200401
+! Title: mY adblock plus filter
+! Last modified: ???
+! Expires: 1 hours (update frequency)
+! Homepage: https://gitlab.com/?
+!
+! Filter list designed to fight circumvention ads (including, in some cases, their tracking) and fix critical issues for Adblock Plus users
 ||api2.zoomit.ir/media/65d9b135412e5bb22d8658f0
 zoomit.ir##.Display__DisplayRoot-o59yor-0.jcCVna
 ||api2.zoomit.ir/media/63beb120d7769fa5813b9c34
