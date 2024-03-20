@@ -27,3 +27,6 @@ zoomg.ir##.banner-wrapper
 ||pedal.ir/wp-content/uploads/2024/02/TIGGO_PHEV.gif
 ||pedal.ir/wp-content/uploads/2024/03/x33cross.gif
 pedal.ir##.banner-container
+||pedal.ir/wp-content/uploads/2023/07/300-x-250.gif
+||api2.zoomit.ir/media/65f93e5267794fc357b00c13
+zoomit.ir##.Display__DisplayRoot-o59yor-0.jcCVna
