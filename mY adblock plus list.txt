@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Homepage: http://chrome.murvielinfo.com
+! Title: mY adblock plus list
+! Expires: 5 days (update frequency)
+! Version: 20170211
+###my-div
+##.my-class
 ||api2.zoomit.ir/media/65d9b135412e5bb22d8658f0
 zoomit.ir##.Display__DisplayRoot-o59yor-0.jcCVna
 ||api2.zoomit.ir/media/63beb120d7769fa5813b9c34
