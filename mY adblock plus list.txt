@@ -34,3 +34,8 @@ youtube.com##.style-scope.yt-mealbar-promo-renderer
 ||toranji.ir/wp-content/uploads/2023/07/%D8%AA%D8%B1%D9%86%D8%AC%DB%8C.gif
 ||toranji.ir/wp-content/uploads/2023/09/768x96h-1.gif
 ||toranji.ir/wp-content/uploads/2023/04/mrbilit-hotel2728x90-remake2.gif
+||toranji.ir/wp-content/uploads/2023/07/%D8%AA%D8%B1%D9%86%D8%AC%DB%8C.gif
+||toranji.ir/wp-content/uploads/2023/09/768x96h-1.gif
+||toranji.ir/wp-content/uploads/2023/04/mrbilit-hotel2728x90-remake2.gif
+pngegg.com##.fc-ab-dialog.fc-dialog
+pngegg.com##.fc-dialog-overlay
