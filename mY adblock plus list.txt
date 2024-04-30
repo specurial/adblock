@@ -40,3 +40,4 @@ youtube.com##.style-scope.yt-mealbar-promo-renderer
 pngegg.com##.fc-ab-dialog.fc-dialog
 pngegg.com##.fc-dialog-overlay
 zoomit.ir##.AdvertisingParser__Root-sc-12erevm-1.gCgCBD
+
