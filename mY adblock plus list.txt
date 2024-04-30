@@ -1,6 +1,6 @@
 [Adblock Plus 3.1]
 ! Checksum: NUlOK6EsnYivbzCPte4P7A
-! Version: 20240321
+! Version: 20240322
 ! Title: mY adblock plus filter
 ! Last modified: ???
 ! Expires: 1 hours (update frequency)
