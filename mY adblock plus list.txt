@@ -29,15 +29,13 @@ zoomg.ir##.banner-wrapper
 pedal.ir##.banner-container
 ||pedal.ir/wp-content/uploads/2023/07/300-x-250.gif
 ||api2.zoomit.ir/media/65f93e5267794fc357b00c13
-zoomit.ir##.Display__DisplayRoot-o59yor-0.jcCVna
 youtube.com##.style-scope.yt-mealbar-promo-renderer
-||toranji.ir/wp-content/uploads/2023/07/%D8%AA%D8%B1%D9%86%D8%AC%DB%8C.gif
-||toranji.ir/wp-content/uploads/2023/09/768x96h-1.gif
-||toranji.ir/wp-content/uploads/2023/04/mrbilit-hotel2728x90-remake2.gif
 ||toranji.ir/wp-content/uploads/2023/07/%D8%AA%D8%B1%D9%86%D8%AC%DB%8C.gif
 ||toranji.ir/wp-content/uploads/2023/09/768x96h-1.gif
 ||toranji.ir/wp-content/uploads/2023/04/mrbilit-hotel2728x90-remake2.gif
 pngegg.com##.fc-ab-dialog.fc-dialog
 pngegg.com##.fc-dialog-overlay
+zoomit.ir##.AdvertisingParser__Root-sc-12erevm-1.gCgCBD
+smstome.com##.fc-ab-dialog.fc-dialog
 zoomit.ir##.AdvertisingParser__Root-sc-12erevm-1.gCgCBD
 
