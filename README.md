@@ -1,6 +1,8 @@
-Edit:
-  https://github.com/specurial/adblock/edit/main/mY%20adblock%20plus%20list.txt
+# adblock 🅰️🅱️
+<br />
+## **Edit [mYlist!](https://github.com/specurial/adblock/edit/main/mY%20adblock%20plus%20list.txt)**
+<br />
+link for use in adblock plus:
+<br />
 
-Raw file link for use in adblock plus:
-
-  https://raw.githubusercontent.com/specurial/adblock/main/mY%20adblock%20plus%20list.txt
+    https://raw.githubusercontent.com/specurial/adblock/main/mY%20adblock%20plus%20list.txt
