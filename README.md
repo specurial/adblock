@@ -1,4 +1,4 @@
-# adblock 🅰️🅱️
+# adblock :card_index:
 <br />
 
 ## **[mYlist](https://github.com/specurial/adblock/edit/main/mY%20adblock%20plus%20list.txt)**
