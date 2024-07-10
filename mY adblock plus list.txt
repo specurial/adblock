@@ -38,4 +38,5 @@ pngegg.com##.fc-dialog-overlay
 zoomit.ir##.AdvertisingParser__Root-sc-12erevm-1.gCgCBD
 smstome.com##.fc-ab-dialog.fc-dialog
 zoomit.ir##.AdvertisingParser__Root-sc-12erevm-1.gCgCBD
+digikala.com##div[style="height: 60px; line-height: 0; --visited-color: rgb(132, 61, 255) !important; --visited-color-hover: rgb(152, 92, 255) !important; --visited-color-active: rgb(132, 61, 255) !important;"]
 
