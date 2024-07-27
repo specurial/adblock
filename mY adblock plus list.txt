@@ -41,3 +41,17 @@ zoomit.ir##.AdvertisingParser__Root-sc-12erevm-1.gCgCBD
 digikala.com##div[style="height: 60px; line-height: 0; --visited-color: rgb(132, 61, 255) !important; --visited-color-hover: rgb(152, 92, 255) !important; --visited-color-active: rgb(132, 61, 255) !important;"]
 zoomit.ir##.skeleton__SkeletonBase-sc-33k9mh-0.fOsZSe
 zoomit.ir##.DisplaySkeleton__DisplayRoot-sc-8ki4p4-0.kXaxCf
+raider.io##.rio-panel--mmo-awards.slds-p-vertical--small.slds-p-horizontal--large.slds-text-align--center.slds-grid.slds-wrap.slds-medium-nowrap.slds-grid--vertical-align-center
+raider.io##section[style="width: 300px; height: 185px; background-color: rgba(0, 0, 0, 0.5);"]
+raider.io##.rio-hidden--small.rio-block-message.rio-background--header.slds-p-around--small.slds-text-align--left
+raider.io###pw-trendi-video-container-new
+raider.io##.stream-overlay.slds-align--absolute-center
+raider.io##.stream--larger.streamer-threeway-offset.slds-col.slds-shrink-none.d-inline-block
+raider.io##.slds-m-bottom--x-small.slds-text-heading--small.text-raiderio
+raider.io##.slds-m-top--x-small
+raider.io##.slds-align--absolute-center
+raider.io##.slds-col.slds-grow-none.slds-shrink-none.rio-right-pane.fresnel-greaterThanOrEqual-xl
+raider.io##div[style="cursor: pointer; background-image: url(\"https://cdn.raiderio.net/images/df/review-s3/recap_card_large.jpg\"); background-size: cover; background-position: center center; height: 100%;"]
+raider.io###rio-docked-video
+raider.io##.slds-m-bottom--medium
+||player.twitch.tv/?autoplay=true&muted=true&parent=raider.io&channel=kaytlien
