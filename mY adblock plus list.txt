@@ -55,3 +55,19 @@ raider.io##div[style="cursor: pointer; background-image: url(\"https://cdn.raide
 raider.io###rio-docked-video
 raider.io##.slds-m-bottom--medium
 ||player.twitch.tv/?autoplay=true&muted=true&parent=raider.io&channel=kaytlien
+! Feb 26, 2025 https://www.zoomit.ir
+www.zoomit.ir##.rounded-none.overflow-hidden.animate-pulse.relative.bg-grey6
+www.zoomit.ir##.iLuRHC.sc-430fedf-0
+www.zoomit.ir##.jxZlSU.sc-b88781d7-1 > div.gdDiqu.sc-430fedf-0 > .rounded-sm.overflow-hidden.animate-pulse.relative.bg-grey6
+www.zoomit.ir##.cKSqDm.sc-779938b5-0 > .eZwFnk.sc-a11b1542-0 > .grCDSi.sc-b88781d7-0
+www.zoomit.ir##div.grCDSi.sc-b88781d7-0:nth-of-type(2)
+www.zoomit.ir##div.grCDSi.sc-b88781d7-0:nth-of-type(4)
+www.zoomit.ir##div.grCDSi.sc-b88781d7-0:nth-of-type(6)
+www.zoomit.ir##.hnStGB.sc-b88781d7-1 > .gdDiqu.sc-430fedf-0 > .rounded-sm.overflow-hidden.animate-pulse.relative.bg-grey6
+www.zoomit.ir##div.bAEzqm.sc-b88781d7-0:nth-of-type(6)
+www.zoomit.ir##div.bAEzqm.sc-b88781d7-0:nth-of-type(12)
+www.zoomit.ir##div.grCDSi.sc-b88781d7-0:nth-of-type(9)
+www.zoomit.ir##div.bAEzqm.sc-b88781d7-0:nth-of-type(18)
+www.zoomit.ir##.fCTZLw.sc-779938b5-0 > .eZwFnk.sc-a11b1542-0 > .grCDSi.sc-b88781d7-0
+
+
