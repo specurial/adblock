@@ -1,8 +1,9 @@
-! Title: My uBlock Origin Filter List
+[uBlock Origin]
+! Title: mY Custom uBlock Origin List
 ! Description: Custom filter list for blocking ads on specific websites
-! Version: 20240322
-! Last modified: ???
-! Expires: 1 hour (update frequency)
+! Expires: 7 days
+! Last modified: ?
+! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! Homepage: https://github.com/specurial/adblock/edit/main/mY%20adblock%20plus%20list.txt
 
 ! Block specific media files
