@@ -1,0 +1,59 @@
+! Title: My uBlock Origin Filter List
+! Description: Custom filter list for blocking ads on specific websites
+! Version: 20240322
+! Last modified: ???
+! Expires: 1 hour (update frequency)
+! Homepage: https://github.com/specurial/adblock/edit/main/mY%20adblock%20plus%20list.txt
+
+! Block specific media files
+||api2.zoomit.ir/media/65d9b135412e5bb22d8658f0
+||api2.zoomit.ir/media/63beb120d7769fa5813b9c34
+||api2.zoomit.ir/media/6550b0957c0c309f94432a67
+||api2.zoomit.ir/media/65d9b163412e5bb22d8658f6
+||api2.zoomit.ir/media/65cb1a8e381b5915be4f31fd
+||api2.zoomit.ir/media/65e8847e412e5bb22d8685c4
+||api2.zoomit.ir/media/644fc819370d0344b41ea22e
+||api2.zoomit.ir/media/65f93e5267794fc357b00c13
+
+! Block specific GIFs and banners
+||cdn.zoomg.ir/2024/2/ezgif-6-86fb62909e.gif
+||cdn.zoomg.ir/2024/3/fa-zoomg-1300-100.gif
+||cdn.zoomg.ir/2023/9/lg-oled-gaming-zoomgi-300x250.gif
+||pedal.ir/wp-content/uploads/2024/02/samyar.gif
+||pedal.ir/wp-content/uploads/2024/02/TIGGO_PHEV.gif
+||pedal.ir/wp-content/uploads/2024/03/x33cross.gif
+||pedal.ir/wp-content/uploads/2023/07/300-x-250.gif
+||toranji.ir/wp-content/uploads/2023/07/%D8%AA%D8%B1%D9%86%D8%AC%DB%8C.gif
+||toranji.ir/wp-content/uploads/2023/09/768x96h-1.gif
+||toranji.ir/wp-content/uploads/2023/04/mrbilit-hotel2728x90-remake2.gif
+
+! Block elements using CSS selectors
+zoomit.ir##.Display__DisplayRoot-o59yor-0.jcCVna
+zoomit.ir##.Display__DisplayRoot-o59yor-0.dZSCyO
+zoomit.ir##.Display__DisplayRoot-o59yor-0.jhssis
+zoomit.ir##.Display__DisplayRoot-o59yor-0.eVAnwq
+zoomg.ir##.main-top-ads.headerContainer.container
+zoomg.ir##.banner-wrapper
+pedal.ir##.banner-container
+youtube.com##.style-scope.yt-mealbar-promo-renderer
+pngegg.com##.fc-ab-dialog.fc-dialog
+pngegg.com##.fc-dialog-overlay
+zoomit.ir##.AdvertisingParser__Root-sc-12erevm-1.gCgCBD
+smstome.com##.fc-ab-dialog.fc-dialog
+digikala.com##div[style="height: 60px; line-height: 0; --visited-color: rgb(132, 61, 255) !important; --visited-color-hover: rgb(152, 92, 255) !important; --visited-color-active: rgb(132, 61, 255) !important;"]
+zoomit.ir##.skeleton__SkeletonBase-sc-33k9mh-0.fOsZSe
+zoomit.ir##.DisplaySkeleton__DisplayRoot-sc-8ki4p4-0.kXaxCf
+raider.io##.rio-panel--mmo-awards.slds-p-vertical--small.slds-p-horizontal--large.slds-text-align--center.slds-grid.slds-wrap.slds-medium-nowrap.slds-grid--vertical-align-center
+raider.io##section[style="width: 300px; height: 185px; background-color: rgba(0, 0, 0, 0.5);"]
+raider.io##.rio-hidden--small.rio-block-message.rio-background--header.slds-p-around--small.slds-text-align--left
+raider.io###pw-trendi-video-container-new
+raider.io##.stream-overlay.slds-align--absolute-center
+raider.io##.stream--larger.streamer-threeway-offset.slds-col.slds-shrink-none.d-inline-block
+raider.io##.slds-m-bottom--x-small.slds-text-heading--small.text-raiderio
+raider.io##.slds-m-top--x-small
+raider.io##.slds-align--absolute-center
+raider.io##.slds-col.slds-grow-none.slds-shrink-none.rio-right-pane.fresnel-greaterThanOrEqual-xl
+raider.io##div[style="cursor: pointer; background-image: url(\"https://cdn.raiderio.net/images/df/review-s3/recap_card_large.jpg\"); background-size: cover; background-position: center center; height: 100%;"]
+raider.io###rio-docked-video
+raider.io##.slds-m-bottom--medium
+||player.twitch.tv/?autoplay=true&muted=true&parent=raider.io&channel=kaytlien
