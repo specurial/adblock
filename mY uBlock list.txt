@@ -6,6 +6,9 @@
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! Homepage: https://github.com/specurial/adblock/edit/main/mY%20adblock%20plus%20list.txt
 
+wago.io##.embedded-player
+wago.io###stream-chat
+wago.io##.twitch-embed-container.embed-container
 www.zoomit.ir##.rounded-none.overflow-hidden.animate-pulse.relative.bg-grey6
 www.zoomit.ir##.iLuRHC.sc-430fedf-0
 www.zoomit.ir##.jxZlSU.sc-b88781d7-1 > div.gdDiqu.sc-430fedf-0 > .rounded-sm.overflow-hidden.animate-pulse.relative.bg-grey6
