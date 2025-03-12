@@ -22,3 +22,7 @@ www.zoomit.ir##div.bAEzqm.sc-b88781d7-0:nth-of-type(12)
 www.zoomit.ir##div.grCDSi.sc-b88781d7-0:nth-of-type(9)
 www.zoomit.ir##div.bAEzqm.sc-b88781d7-0:nth-of-type(18)
 www.zoomit.ir##.fCTZLw.sc-779938b5-0 > .eZwFnk.sc-a11b1542-0 > .grCDSi.sc-b88781d7-0
+||cdn.raiderio.net/images/site/verts/zoneblock_bg_portrait.jpg$image
+||cdn.raiderio.net/images/site/20th_anniversary_backdrop.png$image
+raider.io##.slds-p-top--small.slds-p-horizontal--large.slds-grid--align-center.slds-grid--vertical-align-center.slds-large-nowrap.slds-medium-nowrap.slds-wrap.slds-grid.slds-p-bottom--medium.slds-text-align--center
+raider.io##section:nth-of-type(2)
