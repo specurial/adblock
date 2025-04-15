@@ -26,3 +26,17 @@ www.zoomit.ir##.fCTZLw.sc-779938b5-0 > .eZwFnk.sc-a11b1542-0 > .grCDSi.sc-b88781
 ||cdn.raiderio.net/images/site/20th_anniversary_backdrop.png$image
 raider.io##.slds-p-top--small.slds-p-horizontal--large.slds-grid--align-center.slds-grid--vertical-align-center.slds-large-nowrap.slds-medium-nowrap.slds-wrap.slds-grid.slds-p-bottom--medium.slds-text-align--center
 raider.io##section:nth-of-type(2)
+! Apr 4, 2025 https://raider.io
+||player.twitch.tv/?autoplay=true&muted=true&parent=raider.io&channel=graycen$subdocument
+||static-cdn.jtvnw.net/previews-ttv/live_user_sco-330x186.jpg?1743751734143$image
+||static-cdn.jtvnw.net/previews-ttv/live_user_arsyn-330x186.jpg?1743751734143$image
+
+! Apr 15, 2025 https://www.zoomg.ir
+||api2.zoomg.ir/media/2021-9-pst-set-up-connection-66cc7d0c2b5676090d024131?w=*&q=80$image
+||api2.zoomg.ir/media/67fd7159197023f9af0480df?w=*&q=75$image
+||api2.zoomg.ir/media/2023-11-dns-logo-66cc7d112b5676090d02d10f?w=*&q=80$image
+www.zoomg.ir##.w-full.h-full.left-0.top-0.absolute
+www.zoomg.ir##.text-center.p-4.bJwOPA.sc-a11b1542-0
+www.zoomg.ir##.w-full.aspect-\[16\/9\].relative
+www.zoomg.ir##.backdrop-brightness-30.backdrop-blur-md.justify-center.items-center.w-full.h-full.flex.z-\[100\].left-0.top-0.fixed
+
