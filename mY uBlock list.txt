@@ -39,4 +39,13 @@ www.zoomg.ir##.w-full.h-full.left-0.top-0.absolute
 www.zoomg.ir##.text-center.p-4.bJwOPA.sc-a11b1542-0
 www.zoomg.ir##.w-full.aspect-\[16\/9\].relative
 www.zoomg.ir##.backdrop-brightness-30.backdrop-blur-md.justify-center.items-center.w-full.h-full.flex.z-\[100\].left-0.top-0.fixed
-
+! Aug 23, 2025 https://www.wowhead.com
+www.wowhead.com###ad_left-rail-1_0 > div
+www.wowhead.com###ad_left-rail-1_0
+www.wowhead.com###ad_left-rail-2_0 > div
+www.wowhead.com###ad_left-rail-2_0
+www.wowhead.com##div.sidebar-wrapper:nth-of-type(1)
+www.wowhead.com###ad_right-rail-1_0 > div
+www.wowhead.com##.sidebar
+www.wowhead.com##.sidebar-track
+www.wowhead.com##div.sidebar-wrapper:nth-of-type(2)
