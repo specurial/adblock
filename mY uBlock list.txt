@@ -45,6 +45,10 @@ www.wowhead.com###ad_right-rail-1_0 > div
 www.wowhead.com##.sidebar
 www.wowhead.com##.sidebar-track
 www.wowhead.com##div.sidebar-wrapper:nth-of-type(2)
+! Sep 13, 2025 https://raider.io
+||www.youtube.com/embed?
+
+! Oct 27, 2025 https://www.zoomg.ir
 www.zoomg.ir##.rounded-none.overflow-hidden.animate-pulse.relative.bg-grey6
 www.zoomg.ir##.khqdHN.DisplaySkeleton__DisplayRoot-sc-78aeaba2-0
 www.zoomg.ir##div.hcfATJ.DisplaySkeleton__DisplayRoot-sc-78aeaba2-0 > .rounded-sm.overflow-hidden.animate-pulse.relative.bg-grey6
