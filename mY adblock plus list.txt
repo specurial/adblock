@@ -68,3 +68,5 @@ www.zoomit.ir##div.bAEzqm.sc-b88781d7-0:nth-of-type(12)
 www.zoomit.ir##div.grCDSi.sc-b88781d7-0:nth-of-type(9)
 www.zoomit.ir##div.bAEzqm.sc-b88781d7-0:nth-of-type(18)
 www.zoomit.ir##.fCTZLw.sc-779938b5-0 > .eZwFnk.sc-a11b1542-0 > .grCDSi.sc-b88781d7-0
+www.zoomg.ir##.rounded-none.overflow-hidden.animate-pulse.relative.bg-grey6
+www.zoomg.ir##.khqdHN.DisplaySkeleton__DisplayRoot-sc-78aeaba2-0
