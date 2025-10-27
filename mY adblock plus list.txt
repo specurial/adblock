@@ -70,3 +70,7 @@ www.zoomit.ir##div.bAEzqm.sc-b88781d7-0:nth-of-type(18)
 www.zoomit.ir##.fCTZLw.sc-779938b5-0 > .eZwFnk.sc-a11b1542-0 > .grCDSi.sc-b88781d7-0
 www.zoomg.ir##.rounded-none.overflow-hidden.animate-pulse.relative.bg-grey6
 www.zoomg.ir##.khqdHN.DisplaySkeleton__DisplayRoot-sc-78aeaba2-0
+www.zoomg.ir##div.hcfATJ.DisplaySkeleton__DisplayRoot-sc-78aeaba2-0 > .rounded-sm.overflow-hidden.animate-pulse.relative.bg-grey6
+www.zoomg.ir##.UmIxC.flex__Flex-sc-96510e75-0 > div.YWSDH.AdvertisingParser__Root-sc-e212e494-0
+www.zoomg.ir##.kArhTw.BlockContainer__InnerArticleContainer-sc-13e44dd5-1 > .jvjSLE.flex__Flex-sc-96510e75-0 > .YWSDH.AdvertisingParser__Root-sc-e212e494-0
+www.zoomg.ir##.jlzbNw.container__Container-sc-e5d11527-0 > .jvjSLE.flex__Flex-sc-96510e75-0 > .YWSDH.AdvertisingParser__Root-sc-e212e494-0
