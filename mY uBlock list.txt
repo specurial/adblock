@@ -3,6 +3,8 @@
 ! Description: Custom filter list for blocking ads on specific websites
 ! Expires: 7 days
 ! Last modified: ?
+! Version: 20251111
+! Title: mY adblock plus filter
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! Homepage: https://github.com/specurial/adblock/edit/main/mY%20adblock%20plus%20list.txt
 
