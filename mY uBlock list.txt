@@ -22,6 +22,7 @@ www.zoomit.ir##div.bAEzqm.sc-b88781d7-0:nth-of-type(12)
 www.zoomit.ir##div.grCDSi.sc-b88781d7-0:nth-of-type(9)
 www.zoomit.ir##div.bAEzqm.sc-b88781d7-0:nth-of-type(18)
 www.zoomit.ir##.fCTZLw.sc-779938b5-0 > .eZwFnk.sc-a11b1542-0 > .grCDSi.sc-b88781d7-0
+
 ! Apr 4, 2025 https://raider.io
 ||player.twitch.tv/?autoplay=true&muted=true&parent=raider.io&channel=graycen$subdocument
 ||static-cdn.jtvnw.net/previews-ttv/live_user_sco-330x186.jpg?1743751734143$image
@@ -35,6 +36,7 @@ www.zoomg.ir##.w-full.h-full.left-0.top-0.absolute
 www.zoomg.ir##.text-center.p-4.bJwOPA.sc-a11b1542-0
 www.zoomg.ir##.w-full.aspect-\[16\/9\].relative
 www.zoomg.ir##.backdrop-brightness-30.backdrop-blur-md.justify-center.items-center.w-full.h-full.flex.z-\[100\].left-0.top-0.fixed
+
 ! Aug 23, 2025 https://www.wowhead.com
 www.wowhead.com###ad_left-rail-1_0 > div
 www.wowhead.com###ad_left-rail-1_0
@@ -45,6 +47,7 @@ www.wowhead.com###ad_right-rail-1_0 > div
 www.wowhead.com##.sidebar
 www.wowhead.com##.sidebar-track
 www.wowhead.com##div.sidebar-wrapper:nth-of-type(2)
+
 ! Sep 13, 2025 https://raider.io
 ||www.youtube.com/embed?
 
@@ -55,9 +58,11 @@ www.zoomg.ir##div.hcfATJ.DisplaySkeleton__DisplayRoot-sc-78aeaba2-0 > .rounded-s
 www.zoomg.ir##.UmIxC.flex__Flex-sc-96510e75-0 > div.YWSDH.AdvertisingParser__Root-sc-e212e494-0
 www.zoomg.ir##.kArhTw.BlockContainer__InnerArticleContainer-sc-13e44dd5-1 > .jvjSLE.flex__Flex-sc-96510e75-0 > .YWSDH.AdvertisingParser__Root-sc-e212e494-0
 www.zoomg.ir##.jlzbNw.container__Container-sc-e5d11527-0 > .jvjSLE.flex__Flex-sc-96510e75-0 > .YWSDH.AdvertisingParser__Root-sc-e212e494-0
+
 ! Oct 27, 2025 https://vigiato.net
 vigiato.net##.add_1000_177.digiBannerArea > .digiBannerArea__container
 vigiato.net##.add_1000_177.digiBannerArea
+
 ! Nov 6, 2025 https://www.filimo.com
 www.filimo.com##.tKue27r8HV.weZXEj5ld5
 www.filimo.com##.pj7BIk7meV
