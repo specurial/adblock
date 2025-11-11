@@ -58,3 +58,9 @@ www.zoomg.ir##.jlzbNw.container__Container-sc-e5d11527-0 > .jvjSLE.flex__Flex-sc
 ! Oct 27, 2025 https://vigiato.net
 vigiato.net##.add_1000_177.digiBannerArea > .digiBannerArea__container
 vigiato.net##.add_1000_177.digiBannerArea
+! Nov 6, 2025 https://www.filimo.com
+www.filimo.com##.tKue27r8HV.weZXEj5ld5
+www.filimo.com##.pj7BIk7meV
+
+! Nov 11, 2025 https://www.zoomit.ir
+www.zoomit.ir##.khqdHN.DisplaySkeleton__DisplayRoot-sc-78aeaba2-0
