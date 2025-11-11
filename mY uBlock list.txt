@@ -1,9 +1,9 @@
 [uBlock Origin]
 ! Title: mY Custom uBlock Origin List
 ! Description: Custom filter list for blocking ads on specific websites
-! Expires: 7 days
+! Expires: 1 hours (update frequency)
 ! Last modified: ?
-! Version: 20251111
+! Version: 202511112
 ! Title: mY adblock plus filter
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! Homepage: https://github.com/specurial/adblock/edit/main/mY%20adblock%20plus%20list.txt
@@ -76,3 +76,6 @@ www.zoomit.ir##.khqdHN.DisplaySkeleton__DisplayRoot-sc-78aeaba2-0
 www.zoomit.ir##.khqdHN.DisplaySkeleton__DisplayRoot-sc-78aeaba2-0
 www.zoomit.ir##.UmIxC.flex__Flex-sc-96510e75-0 > div.YWSDH.AdvertisingParser__Root-sc-e212e494-0
 www.zoomit.ir##.jlzbNw.container__Container-sc-e5d11527-0 > .jvjSLE.flex__Flex-sc-96510e75-0 > .YWSDH.AdvertisingParser__Root-sc-e212e494-0
+
+! Nov 11, 2025 https://gadgetnews.net
+||gadgetnews.net/wp-content/uploads/2025/05/excoino2.jpg$image
