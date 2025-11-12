@@ -1,6 +1,6 @@
 [uBlock Origin]
 ! Title: mY Custom uBlock Origin List
-! Description: Custom filter list for blocking ads on specific websites
+! Description: Custom filter list for blocking ads on specific websites (to apply new update after adding them here u need to change this list Version to newer value so your addon can get this update)
 ! Expires: 1 hours (update frequency)
 ! Last modified: ?
 ! Version: 20251112
