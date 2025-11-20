@@ -3,7 +3,7 @@
 ! Description: Custom filter list for blocking ads on specific websites (to apply new update after adding them here u need to change this list Version to newer value so your addon can get this update)
 ! Expires: 1 hours (update frequency)
 ! Last modified: ?
-! Version: 20251112
+! Version: 20251113
 ! Title: mY adblock plus filter
 ! License: AGPLv3 (https://github.com/MasterKia/PersianBlocker/blob/main/LICENSE)
 ! Homepage: https://github.com/specurial/adblock/edit/main/mY%20adblock%20plus%20list.txt
@@ -87,6 +87,11 @@ www.zoomit.ir##div.bMLcyX.AdvertisingParser__Root-sc-e212e494-0:nth-of-type(12)
 www.zoomit.ir##div.bMLcyX.AdvertisingParser__Root-sc-e212e494-0:nth-of-type(18)
 www.zoomit.ir##div.YWSDH.AdvertisingParser__Root-sc-e212e494-0:nth-of-type(8)
 www.zoomit.ir##div.bMLcyX.AdvertisingParser__Root-sc-e212e494-0:nth-of-type(24)
+
+! Nov 20, 2025 https://www.zoomit.ir
+||api2.zoomit.ir/media/638baf8a8b369136d458411b?w=*&q=75$image
+www.zoomit.ir##.md\:p-4.text-right.py-2.px-4.cvWlrE.flex__Flex-sc-96510e75-0
+||api2.zoomit.ir/media/638baf8a8b369136d458411b?w=*&q=75$image
 
 
 
